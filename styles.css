@@ -1,0 +1,81 @@
+
+#top {
+	padding: 20px 0;
+}
+#mainHead{
+	font-size: 30px;
+	font-family: "Arial";
+	color:#eb5017;
+}
+#phone{
+	position: right;
+	font-size: 30px;
+	font-family: "Arial";
+	color:#eb5017;
+}
+
+.menu {
+	background: #231f20;
+	width: 100%;
+	height: 80px;
+}
+.menu nav a{
+	text-decoration: none;
+}
+.menu nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+.menu li {
+	display: inline-block;
+	padding: 30px 10px;
+	margin: 0;
+	font-size: 14px;
+	font-family: "Arial";
+	color:#ffffff;
+	text-decoration: none;
+}
+.brcr a{
+text-decoration: none;	
+}
+.brcr li{
+	display: inline;
+}
+
+.Calc_menu a{
+	text-decoration: none;
+}
+.Calc_menu button{
+	background:#96dc00;
+	
+}
+
+.foot_menu footer{
+	font-size: 14px;
+	font-family: "Arial";
+	color:#ffffff;
+	text-decoration: none;
+	background: #231f20; 
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 80px;
+}
+.foot_menu footer nav a{
+text-decoration: none;	
+}
+.foot_menu footer nav ul{
+	margin: 0;
+	padding: 0;
+}
+.foot_menu footer nav li {
+	color:#ffffff;
+	display: inline;
+	list-style-position: inside;
+	font: 14px 'Arial';
+	padding: 10px;
+}
+
+
